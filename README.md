@@ -1,2 +1,2 @@
 # Podcast_Searcher
-Application to search itunes podcast data using JSON.
+Application to search itunes podcast data using JSON data.
